@@ -1,0 +1,632 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+
+\titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}
+\titlespacing*{\section}{0pt}{2ex}{1ex}
+\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}{}
+\titlespacing*{\subsection}{0pt}{1ex}{1ex}
+
+
+\begin{document}
+
+\noindent
+\textbf{Michael G. Stanford, Ph.D.} \\
+1151 Looking Glass Lane \\
+Knoxville, TN, 37919 \\
+731-499-0387 \\
+\href{mailto:mstanfo3@gmail.com}{mstanfo3@gmail.com}
+
+\section*{Work Experience}
+\subsection*{Senior Scientist}
+\noindent
+General Graphene Corporation \hfill May 2020 - Present \\
+\noindent
+Current Research Interests: Nanotechnology, 2D materials, Direct-write nanofabrication, Electronic devices
+
+\subsection*{Postdoctoral Researcher}
+\noindent
+Rice University, Houston, TX \hfill May 2018 – March 2020 \\
+\begin{itemize}[noitemsep,topsep=0pt]
+	\item Researched and developed novel techniques for the synthesis of graphene
+	\item Developed applications for graphene, including use in air filtration, gas sensors, and triboelectric nanogenerators
+\end{itemize}
+
+\subsection*{Research Associate}
+\noindent
+The University of Tennessee, Knoxville, TN \hfill January – May 2018 \\
+\begin{itemize}[noitemsep,topsep=0pt]
+	\item Developed laser-assisted processing techniques in TEMs and SEMs for in-situ materials characterization
+	\item Investigated methods for defect introduction in 2D materials and studied emerging properties
+\end{itemize}
+
+\section*{Education}
+\subsection*{B.S. in Materials Science and Engineering}
+\noindent
+The University of Tennessee, Knoxville \\
+Summa Cum Laude (GPA 3.93/4.0) \hfill August 2009 - May 2013
+
+\subsection*{M.S. \& Ph.D. in Materials Science and Engineering}
+\noindent
+The University of Tennessee, Knoxville \\
+(GPA 4.0/4.0) \hfill August 2013 – December 2017
+
+\section{Professional Skills}
+\begin{itemize}
+    \item \textbf{Nanofabrication skills:} Focused ion, electron, and laser beam processing; Optical and electron beam lithography; Physical vapor deposition; Chemical vapor deposition; Atomic layer deposition; High-vacuum system design and maintenance
+    \item \textbf{Computational skills:} Comsol Multiphysics; Python; AutoCAD
+    \item \textbf{Materials Characterization:} Scanning electron microscopy; Scanning ion microscopy; Transmission electron microscopy; Raman spectroscopy; Photoluminescence spectroscopy; Absorption spectroscopy; Energy dispersive spectroscopy; Electrical device characterization; X-ray diffraction; Residual gas analysis
+\end{itemize}
+
+\section{Selected Awards and Honors}
+\begin{itemize}
+    \item 2017 - Best student presentation award in TC03 session at MRS Fall Meeting
+    \item 2017 - AVS Dorothy M. and Earl S. Hoffman Scholarship (1 of 5 named national student awards)
+    \item 2017 - AVS Thin Films Division Harper Award (premier award in Thin Films Division)
+    \item 2017 - AVS Thin Films Division Graduate Student Award
+    \item 2017 - Excellence in Graduate Student Research – Oak Ridge National Laboratory
+    \item 2016 - Center for Nanophase Materials Sciences Distinguished Scientific Paper
+    \item 2016 - Joseph E. Spruiell Award for Excellence in Research
+    \item 2016 - 1st place overall at Oak Ridge Chapter ASM poster competition
+    \item 2015 - 2nd place overall at Oak Ridge Chapter ASM poster competition
+    \item 2014 - Si Debug Technology Recognition Award – Intel Corporation
+    \item 2014 - Center for Materials Processing travel award recipient at Oak Ridge Chapter ASM poster competition
+    \item 2013 - National Defense Science and Engineering Graduate Fellowship (accepted, ~10\% acceptance rate)
+    \item 2013 - University of Tennessee Chancellor’s Fellowship recipient (declined)
+    \item 2013 - E Eugene Stansberry Outstanding Senior Award (MSE department)
+    \item 2011 - The College of Engineering representative on Undergraduate Research Council (faculty selected)
+\end{itemize}
+
+\section{Professional Service and Outreach}
+\begin{itemize}
+    \item 2019 - Present: Reviewer for the Journal of Applied Physics
+    \item 2019 - Present: Reviewer for the Journal of Vacuum Science \& Technology A
+    \item 2018 - Present: Volunteer tutor for local high school students in physics and mathematics
+    \item 2017 - 2018: Co-organizer of the annual Materials Science and Engineering Department Research Symposium
+    \item 2016 - 2017: Graduate Student Council Representative for the Department of Materials Science and Engineering
+\end{itemize}
+
+\section{Accepted Research Proposals}
+\begin{itemize}
+    \item 2018: "Investigating the properties of nanoscale semiconductor materials for next-generation optoelectronics," National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP), Principal Investigator.
+    \item 2017: "Development of advanced photovoltaic materials through atomic layer deposition," Department of Energy (DOE) Office of Science Graduate Student Research (SCGSR) Program, Co-Principal Investigator.
+\end{itemize}
+
+\section{Publications}
+\nocite{*}
+\bibliographystyle{plain}
+\begin{filecontents}{references.bib}
+@article{stanford2012high,
+  title={High Seebeck effects from conducting polymer: Poly (3, 4-ethylenedioxythiophene): poly (styrenesulfonate) based thin-film device with hybrid metal/polymer/metal architecture},
+  author={Stanford, Michael G and Wang, Hsin and Ivanov, Ilia and Hu, Bin},
+  journal={Applied Physics Letters},
+  volume={101},
+  number={17},
+  pages={173304},
+  year={2012},
+  publisher={AIP Publishing}
+}
+
+@inproceedings{gonzalez2014evaluation,
+  title={Evaluation of mask repair strategies via focused electron, helium, and neon beam induced processing for EUV applications},
+  author={Gonzalez, CM and Slingenbergh, W and Timilsina, R and Noh, J-H and Stanford, Michael G and Lewis, BB and Klein, KL and Liang, T and Fowlkes, JD and Rack, PD},
+  booktitle={Extreme Ultraviolet (EUV) Lithography V},
+  volume={9048},
+  pages={135--141},
+  year={2014},
+  organization={SPIE}
+}
+
+@article{noh2014nanoscale,
+  title={Nanoscale electron beam-induced deposition and purification of ruthenium for extreme ultraviolet lithography mask repair},
+  author={Noh, JH and Stanford, Michael G and Lewis, BB and Fowlkes, JD and Plank, H and Rack, PD},
+  journal={Applied Physics A},
+  volume={117},
+  number={4},
+  pages={1705--1713},
+  year={2014},
+  publisher={Springer Berlin Heidelberg}
+}
+
+@article{liu2014surface,
+  title={Surface polarization enhanced Seebeck effects in vertical multi-layer metal--polymer--metal thin-film devices},
+  author={Liu, Qing and Hu, Dehua and Wang, Hongfeng and Stanford, Michael G and Wang, Hsin and Hu, Bin},
+  journal={Physical Chemistry Chemical Physics},
+  volume={16},
+  number={40},
+  pages={22201--22206},
+  year={2014},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{stanford2014purification,
+  title={Purification of nanoscale electron beam induced platinum deposits via pulsed laser induced oxidation reaction},
+  author={Stanford, Michael G and Lewis, Brett B and Noh, Joo Hyon and Fowlkes, Jason D and Roberts, Nicholas A and Plank, Harald and Rack, Philip D},
+  journal={ACS applied materials \& interfaces},
+  volume={6},
+  number={23},
+  pages={21256--21263},
+  year={2014},
+  publisher={American Chemical Society}
+}
+
+@article{noh2015pulsed,
+  title={Pulsed laser-assisted focused electron-beam-induced etching of titanium with XeF2: enhanced reaction rate and precursor transport},
+  author={Noh, JH and Fowlkes, JD and Timilsina, R and Stanford, Michael G and Lewis, BB and Rack, PD},
+  journal={ACS applied materials \& interfaces},
+  volume={7},
+  number={7},
+  pages={4179--4184},
+  year={2015},
+  publisher={American Chemical Society}
+}
+
+@article{lewis2015electron,
+  title={Electron-stimulated purification of platinum nanostructures grown via focused electron beam induced deposition},
+  author={Lewis, Brett B and Stanford, Michael G and Fowlkes, Jason D and Lester, Kevin and Plank, Harald and Rack, Philip D},
+  journal={Beilstein journal of nanotechnology},
+  volume={6},
+  number={1},
+  pages={907--918},
+  year={2015},
+  publisher={Beilstein-Institut}
+}
+
+@article{fowlkes2015electron,
+  title={Electron nanoprobe induced oxidation: a simulation of direct-write purification},
+  author={Fowlkes, JD and Geier, Barbara and Lewis, Brett B and Rack, Philip D and Stanford, Michael G and Winkler, Robert and Plank, Harald},
+  journal={Physical Chemistry Chemical Physics},
+  volume={17},
+  number={28},
+  pages={18294--18304},
+  year={2015},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{stanford2015inert,
+  title={Inert gas enhanced laser-assisted purification of platinum electron-beam-induced deposits},
+  author={Stanford, Michael G and Lewis, Brett B and Noh, Joo Hyon and Fowlkes, Jason D and Rack, Philip D},
+  journal={ACS applied materials \& interfaces},
+  volume={7},
+  number={35},
+  pages={19579--19588},
+  year={2015},
+  publisher={American Chemical Society}
+}
+
+@article{stanford2016situ,
+  title={In situ mitigation of subsurface and peripheral focused ion beam damage via simultaneous pulsed laser heating},
+  author={Stanford, Michael G and Lewis, Brett B and Iberi, Vighter and Fowlkes, Jason D and Tan, Shida and Livengood, Rick and Rack, Philip D},
+  journal={Small},
+  volume={12},
+  number={13},
+  pages={1779--1787},
+  year={2016}
+}
+
+@article{stanford2016focused,
+  title={Focused helium-ion beam irradiation effects on electrical transport properties of few-layer WSe2: enabling nanoscale direct write homo-junctions},
+  author={Stanford, Michael G and Pudasaini, Pushpa Raj and Belianinov, Alex and Cross, Nicholas and Noh, Joo Hyon and Koehler, Michael R and Mandrus, David G and Duscher, Gerd and Rondinone, Adam J and Ivanov, Ilia N and others},
+  journal={Scientific reports},
+  volume={6},
+  number={1},
+  pages={1--10},
+  year={2016},
+  publisher={Nature Publishing Group}
+}
+
+@article{fowlkes2016simulation,
+  title={Simulation-guided 3D nanomanufacturing via focused electron beam induced deposition},
+  author={Fowlkes, Jason D and Winkler, Robert and Lewis, Brett B and Stanford, Michael G and Plank, Harald and Rack, Philip D},
+  journal={ACS nano},
+  volume={10},
+  number={6},
+  pages={6163--6172},
+  year={2016},
+  publisher={American Chemical Society}
+}
+
+@article{iberi2016nanoforging,
+  title={Nanoforging single layer MoSe2 through defect engineering with focused helium ion beams},
+  author={Iberi, Vighter and Liang, Liangbo and Ievlev, Anton V and Stanford, Michael G and Lin, Ming-Wei and Li, Xufan and Mahjouri-Samani, Masoud and Jesse, Stephen and Sumpter, Bobby G and Kalinin, Sergei V and others},
+  journal={Scientific reports},
+  volume={6},
+  number={1},
+  pages={30481},
+  year={2016},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{stanford2016laser,
+  title={Laser-assisted focused He+ ion beam induced etching with and without XeF2 gas assist},
+  author={Stanford, Michael G and Mahady, Kyle and Lewis, Brett B and Fowlkes, Jason D and Tan, Shida and Livengood, Richard and Magel, Gregory A and Moore, Thomas M and Rack, Philip D},
+  journal={ACS applied materials \& interfaces},
+  volume={8},
+  number={42},
+  pages={29155--29162},
+  year={2016},
+  publisher={American Chemical Society}
+}
+
+@article{stanford2017tungsten,
+  title={Tungsten Diselenide Patterning and Nanoribbon Formation by Gas-Assisted Focused-Helium-Ion-Beam-Induced Etching},
+  author={Stanford, Michael G and Pudasaini, Pushpa R and Cross, Nicholas and Mahady, Kyle and Hoffman, Anna N and Mandrus, David G and Duscher, Gerd and Chisholm, Matthew F and Rack, Philip D},
+  journal={Small Methods},
+  volume={1},
+  number={4},
+  pages={1600060},
+  year={2017}
+}
+
+@article{lewis20173d,
+  title={3D Nanoprinting via laser-assisted electron beam induced deposition: growth kinetics, enhanced purity, and electrical resistivity},
+  author={Lewis, Brett B and Winkler, Robert and Sang, Xiahan and Pudasaini, Pushpa R and Stanford, Michael G and Plank, Harald and Unocic, Raymond R and Fowlkes, Jason D and Rack, Philip D},
+  journal={Beilstein journal of nanotechnology},
+  volume={8},
+  number={1},
+  pages={801--812},
+  year={2017},
+  publisher={Beilstein-Institut}
+}
+
+@article{lewissupporting,
+  title={Supporting Information for 3D Nanoprinting via laser-assisted electron beam induced deposition: growth kinetics, enhanced purity, and electrical resistivity},
+  author={Lewis, Brett B and Winkler, Robert and Sang, Xiahan and Pudasaini, Pushpa R and Stanford, Michael G and Plank, Harald and Unocic, Raymond R and Fowlkes, Jason D and Rack, Philip D}
+}
+
+@article{stanford2017advanced,
+  title={Advanced nanoscale patterning and material synthesis with gas field helium and neon ion beams},
+  author={Stanford, Michael G and Lewis, Brett B and Mahady, Kyle and Fowlkes, Jason D and Rack, Philip D},
+  journal={Journal of Vacuum Science \& Technology B, Nanotechnology and Microelectronics: Materials, Processing, Measurement, and Phenomena},
+  volume={35},
+  number={3},
+  pages={030802},
+  year={2017},
+  publisher={American Vacuum Society}
+}
+
+@article{stanford2017high,
+  title={High conduction hopping behavior induced in transition metal dichalcogenides by percolating defect networks: toward atomically thin circuits},
+  author={Stanford, Michael G and Pudasaini, Pushpa R and Gallmeier, Elisabeth T and Cross, Nicholas and Liang, Liangbo and Oyedele, Akinola and Duscher, Gerd and Mahjouri-Samani, Masoud and Wang, Kai and Xiao, Kai and others},
+  journal={Advanced Functional Materials},
+  volume={27},
+  number={36},
+  pages={1702829},
+  year={2017}
+}
+
+@article{pudasaini2017high,
+  title={High-performance multilayer WSe2 field-effect transistors with carrier type control},
+  author={Pudasaini, Pushpa Raj and Oyedele, Akinola and Zhang, Cheng and Stanford, Michael G and Cross, Nicholas and Wong, Anthony T and Hoffman, Anna N and Xiao, Kai and Duscher, Gerd and Mandrus, David G and others},
+  journal={Nano Research},
+  pages={1--9},
+  year={2017},
+  publisher={Tsinghua University Press}
+}
+
+@article{pudasaini2017high,
+  title={High performance top-gated multilayer WSe2 field effect transistors},
+  author={Pudasaini, Pushpa Raj and Stanford, Michael G and Oyedele, Akinola and Wong, Anthony T and Hoffman, Anna N and Briggs, Dayrl P and Xiao, Kai and Mandrus, David G and Ward, Thomas Z and Rack, Philip D},
+  journal={Nanotechnology},
+  volume={28},
+  number={47},
+  pages={475202},
+  year={2017},
+  publisher={IOP Publishing}
+}
+
+@article{stanford2017room,
+  title={Room-temperature activation of InGaZnO thin-film transistors via He+ irradiation},
+  author={Stanford, Michael G and Noh, Joo Hyon and Mahady, Kyle and Ievlev, Anton V and Maksymovych, Peter and Ovchinnikova, Olga S and Rack, Philip D},
+  journal={ACS applied materials \& interfaces},
+  volume={9},
+  number={40},
+  pages={35125--35132},
+  year={2017},
+  publisher={American Chemical Society}
+}
+
+@article{fowlkes2018high,
+  title={High-fidelity 3D-nanoprinting via focused electron beams: computer-aided design (3BID)},
+  author={Fowlkes, Jason D and Winkler, Robert and Lewis, Brett B and Fernandez-Pacheco, Amalio and Skoric, Luka and Sanz-Hernandez, Dodalo and Stanford, Michael G and Mutunga, Eva and Rack, Philip D and Plank, Harald},
+  journal={ACS Applied Nano Materials},
+  volume={1},
+  number={3},
+  pages={1028--1041},
+  year={2018},
+  publisher={American Chemical Society}
+}
+
+@article{fowlkes2018research,
+  title={Research data supporting" High-Fidelity 3D-Nanoprinting via Focused Electron Beams: Computer-Aided Design (3BID)"},
+  author={Fowlkes, J and Winkler, R and Lewis, B and Fernandez-Pacheco, A and Skoric, L and Sanz-Hernandez, D and Stanford, M and Mutunga, E and Rack, P and Plank, H},
+  year={2018}
+}
+
+@inproceedings{stanford2014new,
+  title={New Purification Strategies for Electron Beam Induced Deposition},
+  author={Stanford, Michael G and Lewis, BB and Noh, J-H and Fowlkes, JD and Plank, Harald and Rack, PD},
+  booktitle={FEBIP 2014},
+  year={2014}
+}
+
+@article{stanford2018emerging,
+  title={Emerging nanofabrication and quantum confinement techniques for 2D materials beyond graphene},
+  author={Stanford, Michael G and Rack, Philip D and Jariwala, Deep},
+  journal={npj 2D Materials and Applications},
+  volume={2},
+  number={1},
+  pages={20},
+  year={2018},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{burch20183d,
+  title={3D Nanostructures grown via focused helium ion beam induced deposition},
+  author={Burch, Matthew J and Ievlev, Anton and Kim, Songkil and Belianinov, Alex and Ovchinnikova, Olga S and Stanford, Michael G and Mahady, Kyle and Lewis, Brett B and Fowlkes, Jason D and Rack, Philip D},
+  journal={Microscopy and Microanalysis},
+  volume={24},
+  number={S1},
+  pages={332--333},
+  year={2018},
+  publisher={Cambridge University Press}
+}
+
+@article{hoffman2018atmospheric,
+  title={Atmospheric and long-term aging effects on the electrical properties of variable thickness WSe2 transistors},
+  author={Hoffman, Anna N and Stanford, Michael G and Zhang, Cheng and Ivanov, Ilia N and Oyedele, Akinola D and Sales, Maria Gabriela and McDonnell, Stephen J and Koehler, Michael R and Mandrus, David G and Liang, Liangbo and others},
+  journal={ACS applied materials \& interfaces},
+  volume={10},
+  number={42},
+  pages={36540--36548},
+  year={2018},
+  publisher={American Chemical Society}
+}
+
+@article{stanford2017advanced,
+  title={Advanced Focused Beam-Induced Processing for Nanoscale Synthesis and 2D Materials Device Architectures},
+  author={Stanford, Michael Garrison},
+  year={2017}
+}
+
+@article{wu2018exploring,
+  title={Exploring photothermal pathways via in situ laser heating in the transmission electron microscope: recrystallization, grain growth, phase separation, and dewetting in Ag0. 5Ni0. 5 Thin Films},
+  author={Wu, Yueying and Liu, Chenze and Moore, Thomas M and Magel, Gregory A and Garfinkel, David A and Camden, Jon P and Stanford, Michael G and Duscher, Gerd and Rack, Philip D},
+  journal={Microscopy and microanalysis},
+  volume={24},
+  number={6},
+  pages={647--656},
+  year={2018},
+  publisher={Oxford University Press}
+}
+
+@article{stanford2019laser,
+  title={Laser-induced graphene for flexible and embeddable gas sensors},
+  author={Stanford, Michael G and Yang, Kaichun and Chyan, Yieu and Kittrell, Carter and Tour, James M},
+  journal={ACS nano},
+  volume={13},
+  number={3},
+  pages={3474--3482},
+  year={2019},
+  publisher={American Chemical Society}
+}
+
+@article{stanford2019lithographically,
+  title={Lithographically patterned metallic conduction in single-layer MoS2 via plasma processing},
+  author={Stanford, Michael G and Lin, Yu-Chuan and Sales, Maria Gabriela and Hoffman, Anna N and Nelson, Christopher T and Xiao, Kai and McDonnell, Stephen and Rack, Philip D},
+  journal={npj 2D Materials and Applications},
+  volume={3},
+  number={1},
+  pages={13},
+  year={2019},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{stanford2019laser,
+  title={Laser-induced graphene triboelectric nanogenerators},
+  author={Stanford, Michael G and Li, John T and Chyan, Yieu and Wang, Zhe and Wang, Winston and Tour, James M},
+  journal={ACS nano},
+  volume={13},
+  number={6},
+  pages={7166--7174},
+  year={2019},
+  publisher={American Chemical Society}
+}
+
+@article{hoffman2019tuning,
+  title={Tuning the electrical properties of WSe2 via O2 plasma oxidation: towards lateral homojunctions},
+  author={Hoffman, Anna N and Stanford, Michael G and Sales, Maria Gabriela and Zhang, Cheng and Ivanov, Ilia N and McDonnell, Stephen J and Mandrus, David G and Rack, Philip D},
+  journal={2D Materials},
+  volume={6},
+  number={4},
+  pages={045024},
+  year={2019},
+  publisher={IOP Publishing}
+}
+
+@article{stanford2019self,
+  title={Self-sterilizing laser-induced graphene bacterial air filter},
+  author={Stanford, Michael G and Li, John T and Chen, Yuda and McHugh, Emily A and Liopo, Anton and Xiao, Han and Tour, James M},
+  journal={ACS nano},
+  volume={13},
+  number={10},
+  pages={11912--11920},
+  year={2019},
+  publisher={American Chemical Society}
+}
+
+@article{zhang2019pulsed,
+  title={Pulsed laser-assisted helium ion nanomachining of monolayer graphene—direct-write kirigami patterns},
+  author={Zhang, Cheng and Dyck, Ondrej and Garfinkel, David A and Stanford, Michael G and Belianinov, Alex A and Fowlkes, Jason D and Jesse, Stephen and Rack, Philip D},
+  journal={Nanomaterials},
+  volume={9},
+  number={10},
+  pages={1394},
+  year={2019},
+  publisher={MDPI}
+}
+
+@article{zhangpulsed,
+  title={Pulsed Laser Assisted Helium Ion Nanomachining of Monolayer Graphene—Direct Write Kirigami},
+  author={Zhang, Cheng and Dyck, Ondrej and Garfinkel, David A and Stanford, Michael G and Belianinov, Alex A and Fowlkes, Jason D and Jesse, Stephen and Rack, Philip D}
+}
+
+@article{ren2020quasi,
+  title={Quasi-solid-state Li--O2 batteries with laser-induced graphene cathode catalysts},
+  author={Ren, Muqing and Zhang, Jibo and Zhang, Chenhao and Stanford, Michael G and Chyan, Yieu and Yao, Yan and Tour, James M},
+  journal={ACS Applied Energy Materials},
+  volume={3},
+  number={2},
+  pages={1702--1709},
+  year={2020},
+  publisher={American Chemical Society}
+}
+
+@article{luong2020gram,
+  title={Gram-scale bottom-up flash graphene synthesis},
+  author={Luong, Duy X and Bets, Ksenia V and Algozeeb, Wala Ali and Stanford, Michael G and Kittrell, Carter and Chen, Weiyin and Salvatierra, Rodrigo V and Ren, Muqing and McHugh, Emily A and Advincula, Paul A and others},
+  journal={Nature},
+  volume={577},
+  number={7792},
+  pages={647--651},
+  year={2020},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{stanford2020high,
+  title={High-resolution laser-induced graphene. Flexible electronics beyond the visible limit},
+  author={Stanford, Michael G and Zhang, Cheng and Fowlkes, Jason D and Hoffman, Anna and Ivanov, Ilia N and Rack, Philip D and Tour, James M},
+  journal={ACS applied materials \& interfaces},
+  volume={12},
+  number={9},
+  pages={10902--10907},
+  year={2020},
+  publisher={American Chemical Society}
+}
+
+@article{li2020laminated,
+  title={Laminated laser-induced graphene composites},
+  author={Li, John Tianci and Stanford, Michael G and Chen, Weiyin and Presutti, Steven E and Tour, James M},
+  journal={ACS nano},
+  volume={14},
+  number={7},
+  pages={7911--7919},
+  year={2020},
+  publisher={American Chemical Society}
+}
+
+@article{belianinov2020direct,
+  title={Direct write of 3D nanoscale mesh objects with platinum precursor via focused helium ion beam induced deposition},
+  author={Belianinov, Alex and Burch, Matthew J and Ievlev, Anton and Kim, Songkil and Stanford, Michael G and Mahady, Kyle and Lewis, Brett B and Fowlkes, Jason D and Rack, Philip D and Ovchinnikova, Olga S},
+  journal={Micromachines},
+  volume={11},
+  number={5},
+  pages={527},
+  year={2020},
+  publisher={MDPI}
+}
+
+@article{chen2020laser,
+  title={Laser-induced silicon oxide for anode-free lithium metal batteries},
+  author={Chen, Weiyin and Salvatierra, Rodrigo V and Ren, Muqing and Chen, Jinhang and Stanford, Michael G and Tour, James M},
+  journal={Advanced Materials},
+  volume={32},
+  number={33},
+  pages={2002850},
+  year={2020}
+}
+
+@article{stanford2020flash,
+  title={Flash graphene morphologies},
+  author={Stanford, Michael G and Bets, Ksenia V and Luong, Duy X and Advincula, Paul A and Chen, Weiyin and Li, John Tianci and Wang, Zhe and McHugh, Emily A and Algozeeb, Wala A and Yakobson, Boris I and others},
+  journal={ACS nano},
+  volume={14},
+  number={10},
+  pages={13691--13699},
+  year={2020},
+  publisher={American Chemical Society}
+}
+
+@article{chen2021millisecond,
+  title={Millisecond Conversion of Metastable 2D Materials by Flash Joule Heating},
+  author={Chen, Weiyin and Wang, Zhe and Bets, Ksenia V and Luong, Duy Xuan and Ren, Muqing and Stanford, Michael G and McHugh, Emily A and Algozeeb, Wala A and Guo, Hua and Gao, Guanhui and others},
+  journal={ACS nano},
+  volume={15},
+  number={1},
+  pages={1282--1290},
+  year={2021},
+  publisher={American Chemical Society}
+}
+
+@article{luong????,
+  title={????},
+  author={Luong, Duy X and Bets, Ksenia V and Algozeeb, Wala Ali and Stanford, Michael G and Kittrell, Carter and Chen, Weiyin and Salvatierra, Rodrigo V and Ren, Muqing and McHugh, Emily A and Advincula, Paul A and others}
+}
+
+@article{beckham2021high,
+  title={High-resolution laser-induced graphene from photoresist},
+  author={Beckham, Jacob L and Li, John Tianci and Stanford, Michael G and Chen, Weiyin and McHugh, Emily A and Advincula, Paul A and Wyss, Kevin M and Chyan, Yieu and Boldman, Walker L and Rack, Philip D and others},
+  journal={ACS nano},
+  volume={15},
+  number={5},
+  pages={8976--8983},
+  year={2021},
+  publisher={American Chemical Society}
+}
+
+@article{chen2021ultrafast,
+  title={Ultrafast and controllable phase evolution by flash Joule heating},
+  author={Chen, Weiyin and Li, John Tianci and Wang, Zhe and Algozeeb, Wala A and Luong, Duy Xuan and Kittrell, Carter and McHugh, Emily A and Advincula, Paul A and Wyss, Kevin M and Beckham, Jacob L and others},
+  journal={ACS nano},
+  volume={15},
+  number={7},
+  pages={11158--11167},
+  year={2021},
+  publisher={American Chemical Society}
+}
+
+@article{luong2020wafer,
+  title={Wafer-scale single-crystal hexagonal boron nitride monolayers on Cu (111)},
+  author={Luong, Duy X and Bets, Ksenia V and Algozeeb, Wala Ali and Stanford, Michael G and Kittrell, Carter and Chen, Weiyin and Salvatierra, Rodrigo V and Ren, Muqing and McHugh, Emily A and Advincula, Paul A and others},
+  year={2020}
+}
+
+@misc{tour2022resistive,
+  title={Resistive memory devices having laser-induced graphene composites and methods of making same},
+  author={Tour, James Mitchell and LUONG, Duy X and Yang, Kaichun and Arnusch, Christopher John and Singh, Swatantra Pratap and Thakur, Amit Kumar and Stanford, Michael G and Li, John T and Presutti, Steven E and others},
+  year={2022},
+  month=feb # "~24",
+  note={US Patent App. 17/419,231}
+}
+
+@article{khanna2022combinatorial,
+  title={Combinatorial Cu-Ni Alloy Thin-Film Catalysts for Layer Number Control in Chemical Vapor-Deposited Graphene},
+  author={Khanna, Sumeer R and Stanford, Michael G and Vlassiouk, Ivan V and Rack, Philip D},
+  journal={Nanomaterials},
+  volume={12},
+  number={9},
+  pages={1553},
+  year={2022},
+  publisher={MDPI}
+}
+
+@misc{tour2022laser,
+  title={Laser-induced graphene filters and methods of making and using same},
+  author={Tour, James M. and Stanford, Michael G and Li, John and Chyan, Yieu and Arnusch, Chistopher J and Presutti, Steven E.},
+  year={2022},
+  month=jun # "~15",
+  note={WO Patent App. WO2021030300A2}
+}
+
+@article{stanfordlaser,
+  title={Laser-Induced Graphene for Flexible and Embeddable Gas Sensors—Supporting Information},
+  author={Stanford, Michael G and Yang, Kaichun and Chyan, Yieu and Kittrell, Carter and Tour, James M}
+}
+\end{filecontents}
+\bibliography{references}
+
+
+\end{document}
